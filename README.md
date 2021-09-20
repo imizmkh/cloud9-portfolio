@@ -1,24 +1,33 @@
-# README
+# <みんなの旨めし>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+<全国各地のみんなが"旨い"と感じた料理画像の投稿サイト>
 
-Things you may want to cover:
+### サイトテーマ
+<サイトに登録している人が、自分の"旨い"を発信共有でき、食べに行こうと思えるようなコンセプト>
 
-* Ruby version
+### テーマを選んだ理由
+<普段の楽しみが食べることで、おいしい料理等をさがしてるとき、料理の画像のみのＳＮＳサイトはないと考えたから>
 
-* System dependencies
+### ターゲットユーザ
+<グルメな人、おいしいものを探している人>
 
-* Configuration
+### 主な利用シーン
+<自分がおいしいと感じた商品の共有>
 
-* Database creation
+## 設計書
+<...>
 
-* Database initialization
+## チャレンジ要素一覧
+https://docs.google.com/spreadsheets/d/1Je2UE6LkcOjviyqiVNWijsH3Bcafo7WeYVciJ3UNfiU/edit#gid=0
 
-* How to run the test suite
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
